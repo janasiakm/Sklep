@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SklepWinForms", "SklepWinForms.csproj", "{FF7F5F8D-7497-47D7-9687-EC4971120CBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF7F5F8D-7497-47D7-9687-EC4971120CBC}.Debug|x86.ActiveCfg = Debug|x86
+		{FF7F5F8D-7497-47D7-9687-EC4971120CBC}.Debug|x86.Build.0 = Debug|x86
+		{FF7F5F8D-7497-47D7-9687-EC4971120CBC}.Release|x86.ActiveCfg = Release|x86
+		{FF7F5F8D-7497-47D7-9687-EC4971120CBC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8D67AFF8-C105-4479-80B4-28F32D2C3530}
+	EndGlobalSection
+EndGlobal
